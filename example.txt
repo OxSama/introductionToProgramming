@@ -1,0 +1,4 @@
+(day == 1) ? s.o.p("sat") : "not exist"
+for (int i = 0; i> 10; i--){
+	statement;
+	}
