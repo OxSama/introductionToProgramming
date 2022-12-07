@@ -1,0 +1,4 @@
+	write a program that reads an integer from the user and then prints 
+	"You are old " if the variable age is greater or equal to 50 or prints 
+	"You are young" if the variable age is less than 50;
+	Class name printAge.
